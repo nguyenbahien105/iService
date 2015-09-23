@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\bin\Debug\iService.exe
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\bin\Debug\iService.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.iServiceMain.resources
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.exe.licenses
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.exe
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.iServiceStart.resources
+c:\users\administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.iServiceWait.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\iService\iService\obj\Debug\iService.csprojResolveAssemblyReference.cache
