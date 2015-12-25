@@ -121,7 +121,7 @@
     <value>iService System</value>
   </data>
   <data name="ConnectionString" xml:space="preserve">
-    <value>Server=WIN-HG34R6JV7TD;Database=iService;Trusted_Connection=True;</value>
+    <value>Server=NGUYENBAHIEN;Database=iService;User Id=sa;Password=000;</value>
   </data>
   <data name="GuestCaption" xml:space="preserve">
     <value>Khách</value>
