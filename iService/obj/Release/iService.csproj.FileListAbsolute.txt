@@ -1,0 +1,11 @@
+D:\Hien\GitHub\iService\iService\bin\Release\iService.exe.config
+D:\Hien\GitHub\iService\iService\bin\Release\iService.exe
+D:\Hien\GitHub\iService\iService\bin\Release\iService.pdb
+D:\Hien\GitHub\iService\iService\obj\Release\iService.iServiceMain.resources
+D:\Hien\GitHub\iService\iService\obj\Release\iService.iServiceStart.resources
+D:\Hien\GitHub\iService\iService\obj\Release\iService.Properties.Resources.resources
+D:\Hien\GitHub\iService\iService\obj\Release\iService.iServiceWait.resources
+D:\Hien\GitHub\iService\iService\obj\Release\iService.csproj.GenerateResource.Cache
+D:\Hien\GitHub\iService\iService\obj\Release\iService.exe.licenses
+D:\Hien\GitHub\iService\iService\obj\Release\iService.exe
+D:\Hien\GitHub\iService\iService\obj\Release\iService.pdb
